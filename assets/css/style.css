@@ -1,0 +1,25 @@
+ body{
+  background-color:rgb(30, 171, 236);
+} 
+.parent {
+  display: flex;
+  justify-content: space-between;
+}
+.parent .two img{
+   width: 75vw;
+   height: 45rem;
+}
+.parent .two{
+  margin: left 135px; ;
+}
+.parent .one{
+  color: white;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.parent .one h1{
+  line-height: 50px;
+}
+.parent .one p{
+  line-height: 25px;
+}
